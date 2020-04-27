@@ -1,2 +1,2 @@
-# angular-java-docker
-Example project on how to dockerize the Angular app with Java Backend
+# angular-java-example
+This is an example project of angular with java
